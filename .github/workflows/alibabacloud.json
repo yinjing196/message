@@ -8,7 +8,7 @@
     "git_url": "https://api.github.com/yinjing196/message/edit/2f88bc9f6d62d6651397a6613edc6990f46826f4",
     "type": "file",
     "content": "N4XyA"
-    "encoding": "URL",
+    "encoding": "EncodeURIComponent",
     "_links": {
         "self": "https://api.github.com/yinjing196/message/edit/workflows/alibabacloud.json?ref=main",
         "git": "https://api.github.com/yinjing196/message/edit/2f88bc9f6d62d6651397a6613edc6990f46826f4",
